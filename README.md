@@ -2,12 +2,12 @@
 My proof of completion for the "Career Development" short course, including test scores and my STAR method comment on the material, is contained in this repository.
 
 ## The CAREER DEVELOPMENT Course covered topics which fall under the breakdown below.
-- **Self-Assessment and Exploration:** Understanding your personality, values, interests, and areas of strength and weakness.
-- **Skill Development and Enhancement:** Focusing on the abilities and information required to be successful in your chosen field.
-- **Career Planning and Goal Setting:** Establishing and defining specific short and long-term career goals.
-- **Action Planning:** Developing a plan with doable actions to accomplish objectives, such as determining the knowledge and abilities needed and filling in any gaps.
-- **Career Decision Making:** Developing the ability to make well-informed decisions regarding your work path.
-- **Organizational Context:** Knowing how to handle changes in the workplace and how career development functions inside organizations, including succession planning.
+- **Self-Assessment and Exploration:** Understanding your personality, values, interests, and areas of strength and weakness is touched on in this section.
+- **Skill Development and Enhancement:** Focuses on the abilities and information required to be successful in your chosen field.
+- **Career Planning and Goal Setting:** Teaches you how to establish and define specific short and long-term career goals.
+- **Action Planning:** Developing a plan with doable actions to accomplish objectives, such as determining the knowledge and abilities needed and filling in any gaps is the focus.
+- **Career Decision Making:** You learn the ability to make well-informed decisions regarding your work path.
+- **Organizational Context:** Knowing how to handle changes in the workplace and how career development functions inside organizations, including succession planning is highlighted.
 
 ### Evidence of course completion
 <img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/45ad8b2c-6d32-4d32-b65f-0a520f7ada95" />

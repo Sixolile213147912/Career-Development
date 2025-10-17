@@ -13,7 +13,7 @@ My proof of completion for the "Career Development" short course, including test
 <img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/45ad8b2c-6d32-4d32-b65f-0a520f7ada95" />
 
 ### Reflection: <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/0a7d2c8b-6444-43b3-8d4a-be93c09e3d55" /> Technique
-**Situation**: All 3rd year CPUT IT students were tasked with completing a Career Development course, as part of the Project Presentation 3 module.
+**Situation**: All 3rd year CPUT IT students were tasked with completing the Career Development course, as part of the Project Presentation 3 module.
 
 **Task**: My goal was to go through the course content and complete the related assesments by or before the due date.
 
